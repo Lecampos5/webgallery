@@ -80,7 +80,7 @@ body:after {
   width: 32px;
   height: 32px;
   margin: 0 auto;
-  background: url(../img/loading.gif) no-repeat;
+  background: url(../img/favicon.ico) no-repeat;
 }
 
 .lb-nav {
